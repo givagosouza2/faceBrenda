@@ -3,5 +3,6 @@ pandas
 openpyxl
 matplotlib
 pillow
-mediapipe
 numpy
+mediapipe
+opencv-python-headless
