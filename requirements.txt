@@ -1,8 +1,8 @@
+mediapipe==0.9.3.0
+opencv-python-headless
 streamlit
 pandas
 openpyxl
 matplotlib
 pillow
 numpy
-mediapipe
-opencv-python-headless
